@@ -2,7 +2,7 @@
 #include <opencv2/highgui/highgui.hpp>
 #include <stdlib.h>
 #include <stdio.h>
-#include "crcl.hpp"
+#include "func.hpp"
 IplImage* image = 0;
 	
 //для хранения каналов HSV
